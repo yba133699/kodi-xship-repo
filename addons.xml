@@ -1,0 +1,12 @@
+<addons>
+    <addon id="xship" name="Xship" version="1.0.0" provider-name="Barclay">
+        <extension point="xbmc.python.pluginsource" library="default.py">
+            <provides>video</provides>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Xship Addon</summary>
+            <description>This is the Xship addon for Kodi.</description>
+            <platform>all</platform>
+        </extension>
+    </addon>
+</addons>
