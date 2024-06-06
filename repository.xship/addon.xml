@@ -1,8 +1,8 @@
-<addon id="repository.xship" name="Xship Repository" version="1.0.0" provider-name="YourName">
+<addon id="repository.xship" name="Xship Repository" version="1.0.0" provider-name="yba133699">
     <extension point="xbmc.addon.repository" name="Xship Repository">
-        <info compressed="false">https://raw.githubusercontent.com/YourUsername/kodi-xship-repo/main/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/YourUsername/kodi-xship-repo/main/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/YourUsername/kodi-xship-repo/main/zips/</datadir>
+        <info compressed="false">https://raw.githubusercontent.com/yba133699/kodi-xship-repo/main/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/yba133699/kodi-xship-repo/main/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/yba133699/kodi-xship-repo/main/zips/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Xship Kodi Addon Repository</summary>
